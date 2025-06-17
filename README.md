@@ -1,33 +1,41 @@
-# vue-state-management
+# 🧠 Vue 3 State Management with Pinia
 
-Menggunakan Pinia sebagai state management karena lebih ringan, mendukung TypeScript, dan memiliki integrasi lebih baik dengan Composition API.
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Pinia](https://img.shields.io/badge/Pinia-FADA5E?style=for-the-badge&logo=pinia&logoColor=white)
 
-# .
+Proyek ini menggunakan **Vue.js 3** dengan **Composition API** serta **Pinia** sebagai state management.  
+Pinia dipilih karena lebih ringan, memiliki integrasi lebih baik dengan Composition API, dan mendukung TypeScript secara default.
 
-This template should help get you started developing with Vue 3 in Vite.
+> ⚡ Dibangun menggunakan [Vite](https://vitejs.dev/) untuk pengalaman pengembangan yang cepat dan modern.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Fitur
 
-## Customize configuration
+-   ✅ State Management dengan **Pinia**
+-   ✅ Struktur modular menggunakan **Composition API**
+-   ✅ Kompatibel dengan **TypeScript**
+-   ✅ Performa cepat dengan **Vite**
+-   ✅ Siap dikembangkan dan di-deploy
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠️ Project Setup
 
-```sh
+### 1. Install dependencies
+
+```bash
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
 
-```sh
+```bash
 npm run dev
 ```
 
 ### Compile and Minify for Production
 
-```sh
+```bash
 npm run build
 ```
