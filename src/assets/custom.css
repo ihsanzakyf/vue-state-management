@@ -1,0 +1,11 @@
+.wrapper-line {
+  @apply my-4 flex items-center gap-4 px-5;
+}
+
+.line {
+  @apply h-[1px] grow bg-gray-300;
+}
+
+.main {
+  @apply items-center justify-center;
+}
