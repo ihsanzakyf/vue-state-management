@@ -2,6 +2,7 @@
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Pinia](https://img.shields.io/badge/Pinia-FADA5E?style=for-the-badge&logo=pinia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Proyek ini menggunakan **Vue.js 3** dengan **Composition API** serta **Pinia** sebagai state management.  
 Pinia dipilih karena lebih ringan, memiliki integrasi lebih baik dengan Composition API, dan mendukung TypeScript secara default.
@@ -12,11 +13,11 @@ Pinia dipilih karena lebih ringan, memiliki integrasi lebih baik dengan Composit
 
 ## 🚀 Fitur
 
--   ✅ State Management dengan **Pinia**
--   ✅ Struktur modular menggunakan **Composition API**
--   ✅ Kompatibel dengan **TypeScript**
--   ✅ Performa cepat dengan **Vite**
--   ✅ Siap dikembangkan dan di-deploy
+- ✅ State Management dengan **Pinia**
+- ✅ Struktur modular menggunakan **Composition API**
+- ✅ Kompatibel dengan **TypeScript**
+- ✅ Performa cepat dengan **Vite**
+- ✅ Siap dikembangkan dan di-deploy
 
 ---
 
