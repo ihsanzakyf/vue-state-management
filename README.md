@@ -7,17 +7,17 @@
 This project is built using **Vue.js 3** with the **Composition API** and leverages **Pinia** for state management.  
 Pinia is chosen for its lightweight nature, seamless integration with the Composition API, and out-of-the-box TypeScript support.
 
-⚡ Powered by [Vite](https://vitejs.dev/) for a fast and modern development experience.
+> ⚡ Powered by [Vite](https://vitejs.dev/) for a fast and modern development experience.
 
 ---
 
 ## 🚀 Features
 
- ✅ State management using **Pinia**
- ✅ Modular structure with the **Composition API**
- ✅ TypeScript compatible
- ✅ High performance with **Vite**
- ✅ Ready for development and deployment
+- ✅ State management using **Pinia**
+- ✅ Modular structure with the **Composition API**
+- ✅ TypeScript compatible
+- ✅ High performance with **Vite**
+- ✅ Ready for development and deployment
 
 ---
 
